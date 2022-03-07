@@ -1,0 +1,123 @@
+﻿  Stdafx.cpp
+  AssemblyInfo.cpp
+  auth_service_dotnet_wrap.cpp
+  customized_annotation_obj_dotnet_wrap.cpp
+  customized_resource_helper_dotnet_wrap.cpp
+  customized_share_render_dotnet_wrap.cpp
+  customized_ui_mgr_dotnet_wrap.cpp
+  customized_video_container_dotnet_wrap.cpp
+  customized_annotation_dotnet_wrap.cpp
+  meeting_AAN_helper_dotnet_wrap.cpp
+  meeting_annotation_dotnet_wrap.cpp
+  meeting_audio_dotnet_wrap.cpp
+  meeting_chat_dotnet_wrap.cpp
+  meeting_configuration_dotnet_wrap.cpp
+  meeting_h323_helper_dotnet_wrap.cpp
+  meeting_live_stream_dotnet_wrap.cpp
+  meeting_participants_ctrl_donet_wrap.cpp
+  meeting_phone_helper_donet_wrap.cpp
+  meeting_recording_dotnet_wrap.cpp
+  meeting_remote_ctrl_dotnet_wrap.cpp
+  meeting_service_dotnet_wrap.cpp
+  Generating Code...
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\meeting_recording_dotnet_wrap.cpp : warning C4793: 'ZOOM_SDK_DOTNET_WRAP::MeetingRecordingControllerEventHandler::`vcall'{0}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\meeting_recording_dotnet_wrap.cpp : warning C4793: 'ZOOM_SDK_DOTNET_WRAP::MeetingRecordingControllerEventHandler::`vcall'{4}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\meeting_recording_dotnet_wrap.cpp : warning C4793: 'ZOOM_SDK_DOTNET_WRAP::MeetingRecordingControllerEventHandler::`vcall'{8}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\meeting_recording_dotnet_wrap.cpp : warning C4793: 'ZOOM_SDK_DOTNET_WRAP::MeetingRecordingControllerEventHandler::`vcall'{12}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\meeting_recording_dotnet_wrap.cpp : warning C4793: 'ZOOM_SDK_DOTNET_WRAP::MeetingRecordingControllerEventHandler::`vcall'{16}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\meeting_recording_dotnet_wrap.cpp : warning C4793: 'ZOOM_SDK_DOTNET_WRAP::MeetingRecordingControllerEventHandler::`vcall'{20}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\meeting_audio_dotnet_wrap.cpp : warning C4793: 'ZOOM_SDK_DOTNET_WRAP::MeetingAudioControllerEventHanlder::`vcall'{4}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\meeting_audio_dotnet_wrap.cpp : warning C4793: 'ZOOM_SDK_DOTNET_WRAP::MeetingAudioControllerEventHanlder::`vcall'{0}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\customized_video_container_dotnet_wrap.cpp : warning C4793: 'ZOOM_SDK_DOTNET_WRAP::CustomizedVideoContainerEventHandler::`vcall'{0}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\customized_video_container_dotnet_wrap.cpp : warning C4793: 'ZOOM_SDK_DOTNET_WRAP::CustomizedVideoContainerEventHandler::`vcall'{4}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\customized_video_container_dotnet_wrap.cpp : warning C4793: 'ZOOM_SDK_DOTNET_WRAP::CustomizedVideoContainerEventHandler::`vcall'{8}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\customized_video_container_dotnet_wrap.cpp : warning C4793: 'ZOOM_SDK_DOTNET_WRAP::CustomizedVideoContainerEventHandler::`vcall'{12}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\customized_video_container_dotnet_wrap.cpp : warning C4793: 'ZOOM_SDK_DOTNET_WRAP::CustomizedVideoContainerEventHandler::`vcall'{16}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\customized_share_render_dotnet_wrap.cpp : warning C4793: 'ZOOM_SDK_DOTNET_WRAP::CustomizedShareRenderEventHandler::`vcall'{0}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\customized_share_render_dotnet_wrap.cpp : warning C4793: 'ZOOM_SDK_DOTNET_WRAP::CustomizedShareRenderEventHandler::`vcall'{4}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\customized_share_render_dotnet_wrap.cpp : warning C4793: 'ZOOM_SDK_DOTNET_WRAP::CustomizedShareRenderEventHandler::`vcall'{8}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+  Compiling...
+  meeting_sharing_dotnet_wrap.cpp
+  meeting_ui_ctrl_dotnet_wrap.cpp
+  meeting_video_dotnet_wrap.cpp
+  meeting_waiting_room_dotnet_wrap.cpp
+  setting_service_dotnet_wrap.cpp
+  zoom_sdk_dotnet_wrap.cpp
+  Generating Code...
+  video_setting_context_dotnet_wrap.cpp
+  audio_setting_context_wrap.cpp
+  auth_service_wrap.cpp
+  camera_controller_wrap.cpp
+  customized_resource_helper_wrap.cpp
+  customized_annotation_obj_wrap.cpp
+  customized_annotation_wrap.cpp
+  customized_share_render_wrap.cpp
+  customized_ui_mgr_wrap.cpp
+  customized_video_container_wrap.cpp
+  directshare_helper_wrap.cpp
+  embedded_browser_wrap.cpp
+  meeting_AAN_helper_wrap.cpp
+  meeting_annotation_wrap.cpp
+  meeting_audio_wrap.cpp
+  meeting_chat_wrap.cpp
+  meeting_closedcaption_ctrl_wrap.cpp
+  meeting_configuration_wrap.cpp
+  meeting_emoji_reaction_wrap.cpp
+  meeting_h323_helper_wrap.cpp
+  Generating Code...
+  Compiling...
+  meeting_interpretation_ctrl_wrap.cpp
+  meeting_live_stream_wrap.cpp
+  meeting_participants_ctrl_wrap.cpp
+  meeting_phone_helper_wrap.cpp
+  meeting_recording_wrap.cpp
+  meeting_remote_ctrl_wrap.cpp
+  meeting_sharing_wrap.cpp
+  meeting_ui_ctrl_wrap.cpp
+  meeting_video_wrap.cpp
+  meeting_waiting_room_wrap.cpp
+  meeting_webinar_ctrl_wrap.cpp
+  meeting_realname_auth_helper_wrap.cpp
+  meeting_service_wrap.cpp
+  network_connection_handler_wrap.cpp
+  recording_setting_context_wrap.cpp
+  sdk_loader.cpp
+  sdk_wrap.cpp
+  setting_service_wrap.cpp
+  ui_hook_wrap.cpp
+  video_setting_context_wrap.cpp
+  Generating Code...
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\wrap\sdk_loader.cpp(59): warning C4723: potential divide by 0
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\wrap\common_include.h(101): warning C4793: 'myOutputDebugString': function compiled as native:
+  	varargs not supported under /clr
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\wrap\common_include.h(104): warning C4793: 'myOutputDebugString': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\wrap\common_include.h(109): warning C4793: 'myOutputDebugString': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\wrap\common_include.h(112): warning C4793: 'myOutputDebugStringW': function compiled as native:
+  	varargs not supported under /clr
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\wrap\common_include.h(115): warning C4793: 'myOutputDebugStringW': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\wrap\common_include.h(120): warning C4793: 'myOutputDebugStringW': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  Compiling...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\Release\zoom_sdk_dotnet_wrap.dll) does not match the Linker's OutputFile property value (C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\bin\zoom_sdk_dotnet_wrap.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  zoom_sdk_c_sharp_wrap.vcxproj -> C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_c_sharp_wrap\Release\zoom_sdk_dotnet_wrap.dll

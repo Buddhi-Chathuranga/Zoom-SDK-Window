@@ -1,0 +1,6 @@
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_demo\obj\Debug\zoom_sdk_demo.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_demo\obj\Debug\MainWindow.g.cs
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_demo\obj\Debug\start_join_meeting.g.cs
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_demo\obj\Debug\App.g.cs
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_demo\obj\Debug\zoom_sdk_demo_MarkupCompile.cache
+C:\Users\TUF\Desktop\BC\Z\New folder\zoom-c-sharp-wrapper-5.9.1.2625\x86\zoom_sdk_demo\obj\Debug\zoom_sdk_demo_MarkupCompile.lref
